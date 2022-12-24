@@ -15,17 +15,20 @@ Deliverable 3: A Written Report on the Analysis (README.md)
 	- The total number of helpful reviews was 40,565.
 	- The total number of helpful reviews by Vine members was 94.
 	- The total number of helpful reviews by non-Vine members was 40,471. 
-
+	
+<img width="1088" alt="Question1" src="https://user-images.githubusercontent.com/69826498/209451405-eebf5146-2c6b-4db5-81f6-b01f18b1ed6a.png">
 
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 	- In total there have been 48 member 5 star reviews.
 	- And 15663 non member 5 star reviews. 
-
+	
+<img width="990" alt="Question2" src="https://user-images.githubusercontent.com/69826498/209451409-7c7dcdc4-3ceb-4f31-a214-a2dc0aad4b5e.png">
 
 - What percentage of Vine reviews were 5 stars? What percentage of non_Vine reviews were 5 stars?
 	- In total 51% of Vine member reviews have been 5 stars.
 	- In total 38% of non-Vine member reviews have been 5 stars. 
-
+	
+<img width="1033" alt="Question3" src="https://user-images.githubusercontent.com/69826498/209451412-c56497d4-f355-41af-852b-099ce05cc3fa.png">
 
 ## Summary:
 
