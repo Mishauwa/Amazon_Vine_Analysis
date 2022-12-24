@@ -4,10 +4,9 @@
 
 In the following analysis Amazon reviews written by members of the paid Amazon Vine program get analyzed. In the first section we pick a dataset and use PySpark to perform the ETL process to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. In the second section of the analysis the dataset gets analyzed whether there is any bias towards reviews that were written as the part of the vine program.
 
-Deliverable 1: Perform ETL on Amazon Product Reviews
-Deliverable 2: Determine Bias of Vine Reviews
-Deliverable 3: A Written Report on the Analysis (README.md)
-
+- Deliverable 1: Perform ETL on Amazon Product Reviews
+- Deliverable 2: Determine Bias of Vine Reviews
+- Deliverable 3: A Written Report on the Analysis (README.md)
 
 ## Results:
 
